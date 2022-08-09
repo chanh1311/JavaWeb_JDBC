@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+.text-center{
+	text-align: center;
+}
+
+
+.select-options{
+    width: 140px;
+    margin: 0 16px
+}
+
+.ml{
+	margin-left: 10px
+}
